@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>892805178964-252bbaa86vrail753ne9pnaukdviphu8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.892805178964-252bbaa86vrail753ne9pnaukdviphu8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>892805178964-1nf9abnhs6sb5iosi05s4s09lg8nklk9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAX2GkkLbbFOV04vqrdX-0P5s7vPAoY548</string>
+	<key>GCM_SENDER_ID</key>
+	<string>892805178964</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.whitelabel4.eurotexsg</string>
+	<key>PROJECT_ID</key>
+	<string>eurotex-sg-3c668</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eurotex-sg-3c668.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:892805178964:ios:78223c046df0b3eb236fc1</string>
+	<key>DATABASE_URL</key>
+	<string>https://eurotex-sg-3c668.firebaseio.com</string>
+</dict>
+</plist>
